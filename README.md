@@ -1,2 +1,3 @@
 # sandbox
-Sandbox testing repo / project
+
+This is a "sandbox repo/project" for testing purposes. 
