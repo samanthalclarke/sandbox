@@ -2,7 +2,13 @@
 title: "Webpages and R Markdown"
 author: "Samantha Clarke"
 date: "03/05/2017"
-output: html_document
+output:
+  html_document:
+    keep_md: true
+#this will output both an .html & .md
+
+#output: github_document    
+#this will only output .md file
 ---
 
 ```{r setup, include=FALSE}
