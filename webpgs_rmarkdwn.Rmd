@@ -1,9 +1,15 @@
-This file now does not have a YAML
+---
+title: "Webpages and R Markdown"
+author: "Samantha Clarke"
+date: "03/05/2017"
+output:
+  html_document:
+    keep_md: true
+#this will output both an .html & .md
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
+#output: github_document    
+#this will only output .md file
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
