@@ -6,7 +6,7 @@ This line is coming from GitHub online.
 
 This would be improved with some markdown...
 
-But we do have a GitHub Webpage! 
+But we do have a GitHub Webpage! But I am still working out how to use it...
 
 https://samanthalclarke.github.io/sandbox/
 
